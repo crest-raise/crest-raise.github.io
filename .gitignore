@@ -1,0 +1,9 @@
+# automatically generated dirs.
+_site
+
+# automatically generated files
+Gemfile.lock
+.jekyll-cache
+
+# vscode settings
+.vscode
