@@ -1,0 +1,23 @@
+theme: jekyll-theme-clean-blog
+
+title: RAISE Project
+description: JST CREST ソフト身体性により生成される実世界適応知能
+author: RAISE Project
+baseurl: ""
+url: "https://crest-raise.github.io"
+
+
+# Build settings
+markdown: kramdown
+paginate: 5
+paginate_path: "news/page:num/"
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-sitemap ## Uncomment this line to silently generate a sitemaps.org compliant sitemap for your Jekyll site
+  - jekyll-scholar
+
+show_downloads: false
+
+scholar:
+  style: ieee

@@ -1,0 +1,26 @@
+// Import Core Clean Blog SCSS
+@import "../assets/vendor/startbootstrap-clean-blog/scss/styles.scss";
+
+.noto-sans-jp-regular {
+  font-family: "Noto Sans JP", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+
+#mainNav .navbar-nav > li.nav-item > a {
+    color: black;
+
+    &:hover {
+        color: gray;
+    }
+}
+
+.post-preview > a > .post-title {
+    font-size: 28px;
+}
+
+.btn-primary {
+  background-color: gray;
+  border-color: gray;
+}
