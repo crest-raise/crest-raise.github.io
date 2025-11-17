@@ -9,11 +9,11 @@
 }
 
 #mainNav .navbar-nav > li.nav-item > a {
-    color: black;
+  color: black;
 
-    &:hover {
-        color: gray;
-    }
+  &:hover {
+      color: gray;
+  }
 }
 
 .post-preview > a > .post-title {
@@ -23,4 +23,12 @@
 .btn-primary {
   background-color: gray;
   border-color: gray;
+}
+
+header.masthead .page-heading h1, header.masthead .site-heading h1 {
+  font-size: 70px;
+}
+
+body {
+  font-size: 18px;
 }
