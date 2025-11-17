@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Team
+title: 研究組織
 background: "/img/pneumatic_arm.png"
 ---
 

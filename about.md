@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About RAISE
+title: 研究概要
 background: "/img/pneumatic_arm.png"
 ---
 
