@@ -24,7 +24,7 @@ background: "/img/pneumatic_arm.png"
 
 角川 勇貴（奈良先端科学技術大学院大学） / Yuki Kadokawa (NAIST)
 
-大西 祐輝（千葉工業大学） / Yuki Onishi (Chiba Tech)
+大西 祐輝（国立情報学研究所） / Yuki Onishi (NII)
 
 鈴木 雅大（東京大学） / Masahiro Suzuki (U. Tokyo)
 
