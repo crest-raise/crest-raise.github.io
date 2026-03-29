@@ -19,5 +19,7 @@ plugins:
 
 show_downloads: false
 
+excerpt_separator: <!--more-->
+
 scholar:
   style: ieee
