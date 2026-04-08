@@ -6,7 +6,7 @@ background: "/img/pneumatic_arm.png"
 
 ### 研究代表者 / Principal Investigator
 
-細田 耕（京都大学） / Koh Hosoda (Kyoto U.)
+細田 耕（京都大学） / Koh Hosoda (Kyoto U)
 
 ### 主たる共同研究者 / Co-Principal Investigator
 
@@ -14,22 +14,24 @@ background: "/img/pneumatic_arm.png"
 
 小林 泰介（国立情報学研究所） / Taisuke Kobayashi (NII)
 
-石塚 裕己（大阪大学） / Hiroki Ishizuka (U. Osaka)
+石塚 裕己（上智大学） / Hiroki Ishizuka (Sophia U)
 
 ### 研究参加者 / Research Members
 
-川節 拓実（京都大学） / Takumi Kawasetsu (Kyoto U.)
+川節 拓実（京都大学） / Takumi Kawasetsu (Kyoto U)
 
-郡司 芽久（東洋大学） / Megu Gunji (Toyo U.)
+郡司 芽久（東洋大学） / Megu Gunji (Toyo U)
 
 角川 勇貴（奈良先端科学技術大学院大学） / Yuki Kadokawa (NAIST)
 
+金 加喜（奈良先端科学技術大学院大学） / Gahee Kim (NAIST)
+
 大西 祐輝（国立情報学研究所） / Yuki Onishi (NII)
 
-鈴木 雅大（東京大学） / Masahiro Suzuki (U. Tokyo)
+鈴木 雅大（東京大学） / Masahiro Suzuki (U Tokyo)
 
-堀井 隆斗（大阪大学） / Takato Horii (U. Osaka)
+堀井 隆斗（大阪大学） / Takato Horii (U Osaka)
 
-Punpongsanon Parinya （埼玉大学） / Punpongsanon Parinya (Saitama U.)
+Punpongsanon Parinya （埼玉大学） / Punpongsanon Parinya (Saitama U)
 
 <!-- ### リサーチアシスタント / Research Assistants -->
