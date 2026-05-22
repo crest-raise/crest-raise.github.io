@@ -4,34 +4,32 @@ title: 研究組織
 background: "/img/pneumatic_arm.png"
 ---
 
-### 研究代表者 / Principal Investigator
+### 研究代表者
 
-細田 耕（京都大学） / Koh Hosoda (Kyoto U)
+細田 耕（京都大学）
 
-### 主たる共同研究者 / Co-Principal Investigator
+### 主たる共同研究者
 
-松原 崇充（奈良先端科学技術大学院大学） / Takamitsu Matsubara (NAIST)
+松原 崇充（奈良先端科学技術大学院大学）
 
-小林 泰介（国立情報学研究所） / Taisuke Kobayashi (NII)
+小林 泰介（国立情報学研究所）
 
-石塚 裕己（上智大学） / Hiroki Ishizuka (Sophia U)
+石塚 裕己（上智大学）
 
-### 研究参加者 / Research Members
+### 研究参加者
 
-川節 拓実（京都大学） / Takumi Kawasetsu (Kyoto U)
+川節 拓実（京都大学）
 
-郡司 芽久（東洋大学） / Megu Gunji (Toyo U)
+郡司 芽久（東洋大学）
 
-角川 勇貴（奈良先端科学技術大学院大学） / Yuki Kadokawa (NAIST)
+角川 勇貴（奈良先端科学技術大学院大学）
 
-金 加喜（奈良先端科学技術大学院大学） / Gahee Kim (NAIST)
+金 加喜（奈良先端科学技術大学院大学）
 
-大西 祐輝（国立情報学研究所） / Yuki Onishi (NII)
+大西 祐輝（国立情報学研究所）
 
-鈴木 雅大（東京大学） / Masahiro Suzuki (U Tokyo)
+鈴木 雅大（東京大学）
 
-堀井 隆斗（大阪大学） / Takato Horii (U Osaka)
+堀井 隆斗（大阪大学）
 
-Punpongsanon Parinya （埼玉大学） / Punpongsanon Parinya (Saitama U)
-
-<!-- ### リサーチアシスタント / Research Assistants -->
+Punpongsanon Parinya （埼玉大学）
