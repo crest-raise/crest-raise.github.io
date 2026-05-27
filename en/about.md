@@ -1,7 +1,7 @@
 ---
 layout: page_en
 title: About Us
-desctiption: Project RAISE
+description: JST CREST / Project RAISE
 background: "/img/pneumatic_arm.png"
 ---
 
